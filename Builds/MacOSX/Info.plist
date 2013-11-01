@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist>
+  <dict>
+    <key>CFBundleExecutable</key>
+    <string>${EXECUTABLE_NAME}</string>
+    <key>CFBundleIconFile</key>
+    <string></string>
+    <key>CFBundleIdentifier</key>
+    <string>de.dekstop.Bias</string>
+    <key>CFBundleName</key>
+    <string>Bias</string>
+    <key>CFBundlePackageType</key>
+    <string>TDMw</string>
+    <key>CFBundleSignature</key>
+    <string>PTul</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1.0.0</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>dekstop</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>AudioComponents</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>dekstop: Bias</string>
+        <key>description</key>
+        <string>Bias</string>
+        <key>factoryFunction</key>
+        <string>BiasAUFactory</string>
+        <key>manufacturer</key>
+        <string>Deks</string>
+        <key>type</key>
+        <string>aufx</string>
+        <key>subtype</key>
+        <string>Bias</string>
+        <key>version</key>
+        <integer>65536</integer>
+      </dict>
+    </array>
+  </dict>
+</plist>

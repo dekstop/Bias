@@ -1,0 +1,15 @@
+Bias AU Plugin
+==============
+
+A saturation/distortion effect: adjust amplitude bias while retaining high peaks.
+Variable low/no/high sample bias; this works best on normalised signals.
+ 
+TODO:
+* adjust to varying signal amplitude (don't just kill quiet signals at low bias values)
+* ...
+
+Source at:
+https://github.com/dekstop/Bias
+
+Martin Dittus 2013-06-14
+@dekstop
